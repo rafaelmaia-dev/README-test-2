@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%22Code+is+about+solving+problems%22+%F0%9F%92%BB;Back-end+Developer+in+Progress+%F0%9F%9A%80;Aberto+para+Est%C3%A1gio+%F0%9F%8C%9F;Apaixonado+por+Tecnologia+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+%26+Back-end+%F0%9F%92%BB;Construindo+APIs+e+Automa%C3%A7%C3%B5es+%E2%9A%99%EF%B8%8F;Buscando+meu+primeiro+Est%C3%A1gio+%F0%9F%8C%9F;Code+is+about+solving+problems+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,15 +20,15 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rafaelmaia&color=00E5FF&style=for-the-badge&label=VISITAS+NO+PERFIL&labelColor=09090E)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rafaelmaia&color=00E5FF&style=for-the-badge&label=VISITAS&labelColor=09090E)
   <a href="https://www.linkedin.com/in/rafael-maia-508554232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090E" /></a> 
   <a href="https://github.com/rafaelmaia-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=09090E&labelColor=09090E&color=ffffff" /></a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/🟢%20STATUS-ABERTO%20PARA%20ESTÁGIO-00E676?style=for-the-badge&labelColor=09090E" />
-  <img src="https://img.shields.io/badge/📍%20LOCALIZAÇÃO-BRASIL-2962FF?style=for-the-badge&labelColor=09090E" />
-  <img src="https://img.shields.io/badge/🎓%20CURSO-6º%20SEMESTRE-B300FF?style=for-the-badge&labelColor=09090E" />
+  <img src="https://img.shields.io/badge/🟢%20STATUS-DISPONÍVEL%20PARA%20ESTÁGIO-00E676?style=for-the-badge&labelColor=09090E" />
+  <img src="https://img.shields.io/badge/📍%20SÃO%20PAULO-BRASIL-2962FF?style=for-the-badge&labelColor=09090E" />
+  <img src="https://img.shields.io/badge/🎓%20SISTEMAS%20DE%20INFORMAÇÃO-6º%20SEMESTRE-B300FF?style=for-the-badge&labelColor=09090E" />
 
 </div>
 
@@ -42,58 +42,41 @@
 
 <br/>
 
-**💡 Quem sou eu?**
+## 👨‍💻 Sobre Mim
 
-Sou **Rafael Maia**, desenvolvedor back-end em formação com foco em lógica, automação e construção de APIs. Atualmente no **6º semestre** de Sistemas de Informação na FALS, busco meu primeiro estágio na área de tecnologia para aplicar meus conhecimentos em cenários reais.
+Sou **Rafael Maia**, um desenvolvedor com foco em Back-end apaixonado por arquitetar soluções eficientes, construir APIs robustas e automatizar processos. 
 
-Tenho experiência prática com **Python**, modelagem de banco de dados relacionais (MySQL/PostgreSQL) e venho me aprofundando em boas práticas, conteinerização com Docker e versionamento de código. 
+Atualmente cursando o **6º semestre de Sistemas de Informação na FALS**, trago uma mentalidade de constante evolução. Minha trajetória inclui desde a imersão em cursos de especialização técnica para aprofundar meu domínio em código, até vivência prática em gestão e projetos públicos, onde aprendi o valor da organização, responsabilidade e o impacto real que a tecnologia tem na sociedade.
 
-Sou movido pela ideia de que código existe para resolver problemas reais — e é isso que me guia na construção de software eficiente.
+Meu foco atual é o ecossistema **Python**, desenvolvendo integrações, lidando com bancos de dados relacionais e me aprofundando em infraestrutura com **Linux** e **Docker**. Busco minha primeira oportunidade como estagiário na área de tecnologia para agregar valor a uma equipe dinâmica e transformar lógica em impacto de negócios.
 
-<br/>
-
-## ⚡ Skills & Diferenciais
-
-<div align="center">
-
-| 🎓 Semestres Cursados | 🛠️ Tecnologias Foco | 📂 Projetos GitHub | 🌱 Tecnologias Aprendendo |
-|:---:|:---:|:---:|:---:|
-| **6°** | **3+** | **2+** | **4** |
+> 💡 **Core Mindset:** Código limpo, aprendizado contínuo e resolução de problemas estruturais.
 
 <br/>
 
-![Raciocínio Lógico](https://img.shields.io/badge/🧠%20Raciocínio%20Lógico-Forte-00E5FF?style=for-the-badge&labelColor=09090E)
-![Resolução de Problemas](https://img.shields.io/badge/🔧%20Resolução%20de%20Problemas-Essencial-B300FF?style=for-the-badge&labelColor=09090E)
-![Autodidata](https://img.shields.io/badge/📚%20Autodidata-Ativo-2962FF?style=for-the-badge&labelColor=09090E)
+## 🚀 Hard Skills & Tech Stack
 
-</div>
+Diferente de apenas listar linguagens, aqui estão as ferramentas que utilizo e como as aplico nos meus estudos e projetos:
 
-> 🎯 Busco meu **primeiro estágio** na área de desenvolvimento, com foco em automação, APIs e infraestrutura back-end.
-
-<br/>
-
-## 🛠 Tech Stack
-
-| Domínio | Tecnologias |
-|---|---|
-| **Backend & Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/> |
-| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" title="MySQL"/> |
-| **DevOps & CI/CD** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" title="Kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" height="40" title="GitHub Actions"/> |
-| **Sistemas & Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" title="Windows 11"/> |
+| Categoria | Tecnologias & Aplicação Prática |
+|:---|:---|
+| 💻 **Desenvolvimento & APIs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> **Python** (Core, Lógica, Scripts) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="24"/> **FastAPI** (Construção de APIs RESTful) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24"/> **JavaScript** (Manipulação assíncrona e integrações) |
+| 🗄️ **Bancos de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> **PostgreSQL** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24"/> **MySQL** (Modelagem relacional, consultas complexas e arquitetura de dados) |
+| 🐳 **Infraestrutura & SO** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24"/> **Linux** (Navegação avançada, Shell Script e permissões) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> **Docker** (Conteinerização e padronização de ambientes) |
+| 🛠️ **DevOps & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> **Git** & **GitHub Actions** (Versionamento e noções de CI/CD) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> **VS Code** (Ambiente principal de desenvolvimento) |
 
 <br/>
 
 ## 📂 Projetos em Destaque
 
-| 🔹 Projeto | 📝 Descrição | 🛠️ Tecnologia |
+| 🔹 Projeto | 📝 Descrição Técnica | 🛠️ Stack Principal |
 |-----------|-------------|--------------|
-| [**API Google**](https://github.com/rafaelmaia-dev/api-google) | Script com requisição GET via link — simulando integração com APIs modernas | ![Python](https://img.shields.io/badge/Python-00E5FF?style=flat-square&logo=python&logoColor=black&labelColor=09090E) |
-| [**Calculadora**](https://github.com/rafaelmaia-dev/calculadora-while) | Aplicação de terminal com menu interativo para operações aritméticas contínuas | ![Python](https://img.shields.io/badge/Python-00E5FF?style=flat-square&logo=python&logoColor=black&labelColor=09090E) |
+| [**Integração API Externa**](https://github.com/rafaelmaia-dev/api-google) | Script construído para consumo de endpoints externos via requisições HTTP, tratando respostas JSON e simulando rotinas de back-end modernas. | ![Python](https://img.shields.io/badge/Python-00E5FF?style=flat-square&logo=python&logoColor=black&labelColor=09090E) |
+| [**CLI Calculator Engine**](https://github.com/rafaelmaia-dev/calculadora-while) | Aplicação interativa de terminal focada no domínio de loops, condicionais e tratamento de erros do usuário em tempo de execução. | ![Python](https://img.shields.io/badge/Python-00E5FF?style=flat-square&logo=python&logoColor=black&labelColor=09090E) |
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Atividade
 
 <div align="center">
   <a href="https://github.com/rafaelmaia-dev">
@@ -106,12 +89,12 @@ Sou movido pela ideia de que código existe para resolver problemas reais — e 
 
 <br/>
 
-## 🌱 Atualmente Aprendendo
+## 🌱 O que estou aperfeiçoando no momento?
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=09090E"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=09090E"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=09090E"/>
+  <img src="https://img.shields.io/badge/Arquitetura_de_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=09090E"/>
+  <img src="https://img.shields.io/badge/Conteinerização-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=09090E"/>
+  <img src="https://img.shields.io/badge/Modelagem_Relacional-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=09090E"/>
 </div>
 
 <br/>
