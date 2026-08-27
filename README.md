@@ -27,7 +27,7 @@
   <br/><br/>
 
   <img src="https://img.shields.io/badge/🟢%20STATUS-DISPONÍVEL%20PARA%20ESTÁGIO-00E676?style=for-the-badge&labelColor=09090E" />
-  <img src="https://img.shields.io/badge/📍%20SÃO%20PAULO-BRASIL-2962FF?style=for-the-badge&labelColor=09090E" />
+  <img src="https://img.shields.io/badge/📍%20PRAIA%20GRANDE-SP-2962FF?style=for-the-badge&labelColor=09090E" />
   <img src="https://img.shields.io/badge/🎓%20SISTEMAS%20DE%20INFORMAÇÃO-6º%20SEMESTRE-B300FF?style=for-the-badge&labelColor=09090E" />
 
 </div>
@@ -46,24 +46,22 @@
 
 Sou **Rafael Maia**, um desenvolvedor com foco em Back-end apaixonado por arquitetar soluções eficientes, construir APIs robustas e automatizar processos. 
 
-Atualmente cursando o **6º semestre de Sistemas de Informação na FALS**, trago uma mentalidade de constante evolução. Minha trajetória inclui desde a imersão em cursos de especialização técnica para aprofundar meu domínio em código, até vivência prática em gestão e projetos públicos, onde aprendi o valor da organização, responsabilidade e o impacto real que a tecnologia tem na sociedade.
+Atualmente no **6º semestre de Sistemas de Informação**, complemento minha formação acadêmica com treinamento técnico contínuo e uso de plataformas avançadas de IA para otimizar a escrita e revisão do meu código. Minha trajetória inclui vivência prática na administração pública municipal, onde desenvolvi forte senso de organização de processos e responsabilidade — habilidades que aplico diretamente na engenharia de software.
 
 Meu foco atual é o ecossistema **Python**, desenvolvendo integrações, lidando com bancos de dados relacionais e me aprofundando em infraestrutura com **Linux** e **Docker**. Busco minha primeira oportunidade como estagiário na área de tecnologia para agregar valor a uma equipe dinâmica e transformar lógica em impacto de negócios.
 
-> 💡 **Core Mindset:** Código limpo, aprendizado contínuo e resolução de problemas estruturais.
+> 💡 **Core Mindset:** Código limpo, resolução de problemas estruturais e aprendizado contínuo.
 
 <br/>
 
-## 🚀 Hard Skills & Tech Stack
+## 🚀 Tech Stack
 
-Diferente de apenas listar linguagens, aqui estão as ferramentas que utilizo e como as aplico nos meus estudos e projetos:
-
-| Categoria | Tecnologias & Aplicação Prática |
+| Domínio | Tecnologias |
 |:---|:---|
-| 💻 **Desenvolvimento & APIs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> **Python** (Core, Lógica, Scripts) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="24"/> **FastAPI** (Construção de APIs RESTful) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24"/> **JavaScript** (Manipulação assíncrona e integrações) |
-| 🗄️ **Bancos de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> **PostgreSQL** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24"/> **MySQL** (Modelagem relacional, consultas complexas e arquitetura de dados) |
-| 🐳 **Infraestrutura & SO** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24"/> **Linux** (Navegação avançada, Shell Script e permissões) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> **Docker** (Conteinerização e padronização de ambientes) |
-| 🛠️ **DevOps & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> **Git** & **GitHub Actions** (Versionamento e noções de CI/CD) <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> **VS Code** (Ambiente principal de desenvolvimento) |
+| **Back-end & Lógica** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Infraestrutura & SO** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Ferramentas & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 <br/>
 
